@@ -82,7 +82,7 @@ footer{
 ROM One UI 8.5 ổn định, hiệu năng cao, giao diện mượt mà.
 </p>
 
-<a href="LINK_ROM_CỦA_BẠN">
+<a href=https://t.me/Bettercallice>
 <button>📥 Tải ROM</button>
 </a>
 
