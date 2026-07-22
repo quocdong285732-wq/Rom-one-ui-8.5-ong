@@ -104,7 +104,7 @@ ROM One UI 8.5 ổn định, hiệu năng cao, giao diện mượt mà.
 
 <p>Kernel hỗ trợ KernelSU cho One UI.</p>
 
-<a href="LINK_KERNEL">
+<a href="https://t.me/icedumbfiles/497">
 <button>📥 Tải Kernel</button>
 </a>
 
